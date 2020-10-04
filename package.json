@@ -1,0 +1,25 @@
+{
+  "name": "learnproject",
+  "version": "1.0.0",
+  "description": "Learning curve",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/98sarthakjain/learnproject.git"
+  },
+  "keywords": [
+    "damn"
+  ],
+  "author": "sarthak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/98sarthakjain/learnproject/issues"
+  },
+  "homepage": "https://github.com/98sarthakjain/learnproject#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
